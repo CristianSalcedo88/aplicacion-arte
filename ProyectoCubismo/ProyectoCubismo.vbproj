@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48C3DB9C-069F-4A8C-8C53-77B2D9A4C17D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ProyectoCubismo.My.MyApplication</StartupObject>
+    <RootNamespace>ProyectoCubismo</RootNamespace>
+    <AssemblyName>ProyectoCubismo</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ProyectoCubismo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ProyectoCubismo.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.Designer.vb" />
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10.Designer.vb">
+      <DependentUpon>Form10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11.vb" />
+    <Compile Include="Form12.Designer.vb">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form12.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form13.Designer.vb">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form13.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form14.Designer.vb">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form14.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form15.Designer.vb">
+      <DependentUpon>Form15.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form15.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form16.Designer.vb">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form16.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form17.Designer.vb">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form17.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form18.Designer.vb">
+      <DependentUpon>Form18.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form18.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form19.Designer.vb">
+      <DependentUpon>Form19.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form19.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.vb">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form20.Designer.vb">
+      <DependentUpon>Form20.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form20.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form21.Designer.vb">
+      <DependentUpon>Form21.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form21.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form22.Designer.vb">
+      <DependentUpon>Form22.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form22.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form23.Designer.vb">
+      <DependentUpon>Form23.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form23.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form24.Designer.vb">
+      <DependentUpon>Form24.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form24.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form25.Designer.vb">
+      <DependentUpon>Form25.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form25.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form26.Designer.vb">
+      <DependentUpon>Form26.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form26.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form27.Designer.vb">
+      <DependentUpon>Form27.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form27.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form28.Designer.vb">
+      <DependentUpon>Form28.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form28.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form29.Designer.vb">
+      <DependentUpon>Form29.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form29.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.vb">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form30.Designer.vb">
+      <DependentUpon>Form30.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form30.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form31.Designer.vb">
+      <DependentUpon>Form31.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form31.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form32.Designer.vb">
+      <DependentUpon>Form32.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form32.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form33.Designer.vb">
+      <DependentUpon>Form33.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form33.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form34.Designer.vb">
+      <DependentUpon>Form34.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form34.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form35.Designer.vb">
+      <DependentUpon>Form35.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form35.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.vb">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.vb">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.vb">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.vb">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.vb">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9.Designer.vb">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Form11.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Form1.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PuntoAdicional.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Form11.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form10.resx">
+      <DependentUpon>Form10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12.resx">
+      <DependentUpon>Form12.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form13.resx">
+      <DependentUpon>Form13.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form14.resx">
+      <DependentUpon>Form14.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form15.resx">
+      <DependentUpon>Form15.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form16.resx">
+      <DependentUpon>Form16.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form17.resx">
+      <DependentUpon>Form17.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form18.resx">
+      <DependentUpon>Form18.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form19.resx">
+      <DependentUpon>Form19.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form20.resx">
+      <DependentUpon>Form20.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form21.resx">
+      <DependentUpon>Form21.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form22.resx">
+      <DependentUpon>Form22.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form23.resx">
+      <DependentUpon>Form23.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form24.resx">
+      <DependentUpon>Form24.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form25.resx">
+      <DependentUpon>Form25.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form26.resx">
+      <DependentUpon>Form26.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form27.resx">
+      <DependentUpon>Form27.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form28.resx">
+      <DependentUpon>Form28.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form29.resx">
+      <DependentUpon>Form29.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form30.resx">
+      <DependentUpon>Form30.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form31.resx">
+      <DependentUpon>Form31.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form32.resx">
+      <DependentUpon>Form32.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form33.resx">
+      <DependentUpon>Form33.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form34.resx">
+      <DependentUpon>Form34.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form35.resx">
+      <DependentUpon>Form35.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9.resx">
+      <DependentUpon>Form9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\madera.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textura-madera-pino_1194-5372.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondomenu.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oJx1LO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sobre-blanco-kandinsky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\difuminado.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\81923163-fondo-de-tapicería-de-cuero-sofá-de-lujo-negro-de-la-decoración-elegante-textura-de-cuero-negro-con-botones.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_29151205-stock-photo-white-wood-wall-and-wood.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\textura-madera-pino_1194-53721.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cubismo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Impresionismo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_29151205-stock-photo-white-wood-wall-and-wood1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reproduccion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\audio1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cubismo obras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actividad1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\evaluacion1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\impresionismo obras.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\picasso.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\braque.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PICASO1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VIOLINYJARRA.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pablo Picasso.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Juan Gris1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Georges1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arte.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ancho.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arte1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borroso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton cubismo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Octavo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\audio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obras y autores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ACTIVIDAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Evaluacion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pincel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pincel1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\borroso1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton_de_obras %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton_de_obras %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boton_de_obras %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abajo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obras_uno.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obras_dos.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obras_tres.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G10.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G14.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G17.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G23.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G26.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G27.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G28.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G30.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G33.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G34.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G35.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\G36.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GUERNICA1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GUERNICA11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Juego_dos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iniciodesesion.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\escudo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nuebo_logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_nuevo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo_negro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ini.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DALI.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\FIRDA.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MIRO.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RENE.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botresso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\obrsurr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fondoa.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>

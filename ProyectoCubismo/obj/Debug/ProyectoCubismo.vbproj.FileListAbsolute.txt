@@ -1,0 +1,125 @@
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.exe.config
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.exe
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.pdb
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.xml
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbprojAssemblyReference.cache
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form2.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Resources.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.GenerateResource.cache
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.exe
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.xml
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.pdb
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form3.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form4.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form5.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.ResolveComReference.cache
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form6.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form7.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form8.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form1.resources
+C:\Users\Asus\Downloads\DIXON\Servicios\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form9.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.exe.config
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.exe
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.pdb
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.xml
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbprojAssemblyReference.cache
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form1.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form10.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form12.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form13.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form14.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form15.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form16.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form17.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form18.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form19.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form2.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form20.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form21.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form22.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form3.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form4.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form5.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form6.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form7.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form8.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form9.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Resources.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.GenerateResource.cache
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.exe
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.xml
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.pdb
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form24.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form25.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form27.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form23.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form26.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form28.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form29.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form30.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form31.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form32.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form33.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form34.resources
+C:\Users\Asus\Desktop\PROYECTO ARTE\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form35.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.exe.config
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.exe
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.pdb
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\bin\Debug\ProyectoCubismo.xml
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\bin\Debug\Interop.WMPLib.dll
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\bin\Debug\AxInterop.WMPLib.dll
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.AssemblyReference.cache
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\Interop.WMPLib.dll
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\AxInterop.WMPLib.dll
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.ResolveComReference.cache
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form1.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form10.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form12.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form13.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form14.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form15.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form16.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form17.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form18.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form19.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form2.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form20.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form21.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form22.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form23.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form24.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form25.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form26.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form27.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form28.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form29.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form3.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form30.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form31.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form32.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form33.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form34.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form35.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form4.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form5.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form6.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form7.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form8.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Form9.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.Resources.resources
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.GenerateResource.cache
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.vbproj.CoreCompileInputs.cache
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.exe
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.xml
+E:\Cristian ADSI\vb\ProyectoCubismo\ProyectoCubismo\obj\Debug\ProyectoCubismo.pdb
